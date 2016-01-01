@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] User can enter custom Tips
+- [X] User can split their bill
 
 ## Video Walkthrough 
 
@@ -29,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/9DMaIed.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='http://i.imgur.com/4Xi6KC2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
