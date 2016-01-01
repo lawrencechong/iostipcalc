@@ -95,7 +95,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits"/>
+                                <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
                                 <connections>
                                     <action selector="onCustomTipChange:" destination="vXZ-lx-hvc" eventType="editingChanged" id="Jns-jh-xIL"/>
                                     <action selector="onCustomTipTouch:" destination="vXZ-lx-hvc" eventType="editingDidBegin" id="YoH-xI-XyM"/>
